@@ -73,7 +73,7 @@ h2 {
 .item-servicos {
     display: flex;
     border: 1px solid #cccccc;
-    width: 15%;
+    width: 20%;
     height: 290px;
     justify-content: center;
     align-items: flex-start;
