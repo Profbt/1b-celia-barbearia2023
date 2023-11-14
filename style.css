@@ -67,6 +67,7 @@ h2 {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .item-servicos {
@@ -74,4 +75,7 @@ h2 {
     border: 1px solid #cccccc;
     width: 15%;
     height: 290px;
+    justify-content: center;
+    align-items: center;
+    color: blue;
 }
